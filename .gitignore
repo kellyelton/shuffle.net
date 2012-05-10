@@ -4,3 +4,5 @@ obj
 
 # mstest test results
 TestResults
+Shuffle.Net/_ReSharper.Shuffle.Net/*
+*.ncrunchsolution
